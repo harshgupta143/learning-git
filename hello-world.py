@@ -11,3 +11,8 @@ e=int(input("enter another number"))
 print(d-e)
 
 #hii 
+
+#multiply two number
+a=int(input("enter a number"))
+b=int(input("enter another number"))
+print(a*b)
